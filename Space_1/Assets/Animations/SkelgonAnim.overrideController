@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SkelgonAnim
+  m_Controller: {fileID: 9100000, guid: 1726c72c852345643b1a6ae0023314d1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3b74364876fe40a4ebac78f45693bec6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ad5326bfa875e78408b2e9b6f7a1affa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4cb74c5461786bc4f9693cc3eee04fa7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 987f01bdeb5a17142a181156b0c26559, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0cf2cbdfebd50c644bd6d2db0bf59c41, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 65d0b59178166fc4e852a6fb798233fc, type: 2}
